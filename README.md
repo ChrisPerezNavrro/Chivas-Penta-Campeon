@@ -99,6 +99,7 @@ Pagina dedicada a la aficion del rebaño para que pueda tener voz y voto en la o
       <li><a href="#">Jugadores</a></li>
       <li><a href="#">Acerca de</a></li>
       <li><a href="#">Contacto</a></li>
+      <li><a href="#">Hello World</a></li>
     </ul>
   </nav>
 
