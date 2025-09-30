@@ -1,5 +1,3 @@
-# Chivas-Penta-Campeon Hello World
-Pagina dedicada a la aficion del rebaño para que pueda tener voz y voto en la oportunidad de quedar primer penta campeon del futbol mexicano por el equipo mas importante: Chivas!
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -85,10 +83,12 @@ Pagina dedicada a la aficion del rebaño para que pueda tener voz y voto en la o
     }
   </style>
 </head>
+  
 <body>
   <header>
     <h1>Chivas Penta Campeón</h1>
     <p>Descubre el futuro del Rebaño</p>
+    <p>Pagina dedicada a la aficion del rebaño para que pueda tener voz y voto en la oportunidad de quedar primer penta campeon del futbol mexicano por el equipo mas importante: Chivas!</p>
   </header>
   
   <nav>
